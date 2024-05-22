@@ -1,4 +1,5 @@
-body {nav {
+
+nav {
   list-style-type:none;
   background-color: #4C956C;
   position: fixed;
@@ -15,7 +16,5 @@ li{display: inline;
 body {background-color: gold }
 li:hover
 {background:#F2E29F
-
-}
 
 }
