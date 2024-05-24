@@ -16,5 +16,8 @@ li{display: inline;
 body {background-color: gold }
 li:hover
 {background:#F2E29F
-
+a{
+  text-decoration:none;
+  color: gold
+}
 }
